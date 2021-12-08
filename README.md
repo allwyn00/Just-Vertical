@@ -1,4 +1,4 @@
-# Just-Vertical
+# Project - JV
 
 DHT sensor uses the library 'dht-node-sensor'.
 
